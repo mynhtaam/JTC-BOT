@@ -1,0 +1,22 @@
+D:\IT\JTC Bot\bin\Debug\net10.0\JTC Bot.exe
+D:\IT\JTC Bot\bin\Debug\net10.0\JTC Bot.deps.json
+D:\IT\JTC Bot\bin\Debug\net10.0\JTC Bot.runtimeconfig.json
+D:\IT\JTC Bot\bin\Debug\net10.0\JTC Bot.dll
+D:\IT\JTC Bot\bin\Debug\net10.0\JTC Bot.pdb
+D:\IT\JTC Bot\bin\Debug\net10.0\DSharpPlus.dll
+D:\IT\JTC Bot\bin\Debug\net10.0\DSharpPlus.CommandsNext.dll
+D:\IT\JTC Bot\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IT\JTC Bot\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT\JTC Bot\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT\JTC Bot\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\IT\JTC Bot\obj\Debug\net10.0\JTC Bot.csproj.AssemblyReference.cache
+D:\IT\JTC Bot\obj\Debug\net10.0\JTC Bot.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\JTC Bot\obj\Debug\net10.0\JTC Bot.AssemblyInfoInputs.cache
+D:\IT\JTC Bot\obj\Debug\net10.0\JTC Bot.AssemblyInfo.cs
+D:\IT\JTC Bot\obj\Debug\net10.0\JTC Bot.csproj.CoreCompileInputs.cache
+D:\IT\JTC Bot\obj\Debug\net10.0\JTC Bot.csproj.Up2Date
+D:\IT\JTC Bot\obj\Debug\net10.0\JTC Bot.dll
+D:\IT\JTC Bot\obj\Debug\net10.0\refint\JTC Bot.dll
+D:\IT\JTC Bot\obj\Debug\net10.0\JTC Bot.pdb
+D:\IT\JTC Bot\obj\Debug\net10.0\JTC Bot.genruntimeconfig.cache
+D:\IT\JTC Bot\obj\Debug\net10.0\ref\JTC Bot.dll
