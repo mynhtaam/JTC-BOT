@@ -8,7 +8,7 @@ using DSharpPlus.EventArgs;
 
 namespace RadianiterBot
 {
-    class Program
+    internal static class RadianiterBotProgram
     {
         // 1. Dán TOKEN Bot của bạn vào đây
         private const string BOT_TOKEN = "MTUzMDEyMTY2NzUyMTY3NTMwNQ.GFfwee.zwkT4hIVu7h5w_Jn7MCP65wNW-DhKMdPv8yJTI";
@@ -19,7 +19,7 @@ namespace RadianiterBot
         // Danh sách lưu các phòng tạm thời do Bot tự tạo
         private static readonly List<ulong> TempChannels = new List<ulong>();
 
-        static async Task Main(string[] args)
+        private static async Task Main(string[] args)
         {
             var discord = new DiscordClient(new DiscordConfiguration()
             {
